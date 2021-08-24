@@ -1,0 +1,26 @@
+{
+  "name": "scottprbworkshop6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/* --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottdmann/scottprbworkshop6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottdmann/scottprbworkshop6/issues"
+  },
+  "homepage": "https://github.com/scottdmann/scottprbworkshop6#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.0",
+    "supertest": "^6.1.6"
+  }
+}
