@@ -5,7 +5,7 @@
 
     // Respond with "hello world" for requests that hit our root "/"
     app.get("/", function (req, res) {
-     return res.send("Helloo World");
+     return res.send("Hello World");
     });
 
     // listen to port 8000 by default
